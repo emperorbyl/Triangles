@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Triangles"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Triangles">
+				<Option output="C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Triangles.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/backward"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 Triangles"/>
+					<CompileFile command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Triangles/fast">
+				<Option output="C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Triangles.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/backward"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 Triangles/fast"/>
+					<CompileFile command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test">
+				<Option output="C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/backward"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test"/>
+					<CompileFile command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test/fast">
+				<Option output="C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/backward"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="C:/Users/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test/fast"/>
+					<CompileFile command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/emperorbyl/CLionProjects/Triangles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Triangles/Edge.cpp">
+			<Option target="Triangles"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Triangles/Edge.h">
+			<Option target="Triangles"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Triangles/Point.cpp">
+			<Option target="Triangles"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Triangles/Point.h">
+			<Option target="Triangles"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Triangles/Testing/EdgeTester.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Triangles/Testing/EdgeTester.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Triangles/Testing/PointTester.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Triangles/Testing/PointTester.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Triangles/Testing/TriangleTester.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Triangles/Testing/TriangleTester.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Triangles/Testing/UtilsTester.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Triangles/Testing/UtilsTester.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Triangles/Testing/testMain.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Triangles/Triangle.cpp">
+			<Option target="Triangles"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Triangles/Triangle.h">
+			<Option target="Triangles"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Triangles/Utils.cpp">
+			<Option target="Triangles"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Triangles/Utils.h">
+			<Option target="Triangles"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Triangles/main.cpp">
+			<Option target="Triangles"/>
+		</Unit>
+		<Unit filename="C:/Users/emperorbyl/CLionProjects/Triangles/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
